@@ -13,5 +13,5 @@ class Intern extends Employee {
     return this.school;
   }
 }
-// This exports Intern class
+// This exports Intern class module
 module.exports = Intern;
