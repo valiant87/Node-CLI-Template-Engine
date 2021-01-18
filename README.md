@@ -33,7 +33,7 @@ Run the folowing command to start your application
 ## Tests
 
 Run following command to see the if the tests pass
-` npm i run test`
+` npm run test`
 
 ## License
 
